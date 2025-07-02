@@ -1,9 +1,0 @@
-2025-07-02 22:57:36.514658+02:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CAR_TYPE" already exists; SQL statement:
-CREATE TABLE car_type ( id VARCHAR(36) PRIMARY KEY, name VARCHAR(50) NOT NULL, total_stock INT NOT NULL ) [42101-232]
-2025-07-02 22:58:21.642637+02:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CAR_TYPE" already exists; SQL statement:
-CREATE TABLE car_type ( id VARCHAR(36) PRIMARY KEY, name VARCHAR(50) NOT NULL, total_stock INT NOT NULL ) [42101-232]
-2025-07-02 22:59:13.722685+02:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CAR_TYPE" already exists; SQL statement:
-CREATE TABLE car_type ( id VARCHAR(36) PRIMARY KEY, name VARCHAR(50) NOT NULL, total_stock INT NOT NULL ) [42101-232]
